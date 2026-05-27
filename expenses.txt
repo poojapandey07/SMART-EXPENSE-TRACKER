@@ -1,0 +1,2 @@
+Income|food|500
+Expense|food|500
